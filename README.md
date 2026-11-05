@@ -15,7 +15,7 @@
 <p><strong>Full-Stack (MERN) developer</strong> · Bhopal, Madhya Pradesh, India</p>
 <p>Full-Stack (MERN) developer seeking an internship or entry-level role (2027 batch) in Bhopal and nearby cities. Built 10+ projects covering React frontends and Node.js, Express, FastAPI and MongoDB/PostgreSQL/Supabase backends, with 58 React feature modules across 6 React projects and 31 REST route handlers across 4 backend projects. Completed 3 internships and 4 hackathons. B.Tech CGPA 8.2.</p>
 
-<p><a href="https://github.com/eshaan-paliwal">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/eshaan-paliwal">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:eshaanpal08@gmail.com">Email</a></p>
+<p><a href="https://github.com/eshaan-paliwal">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/eshaan-paliwal">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:eshaanpal08@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://portfolio-i7m6.onrender.com">Portfolio</a></p>
 </div>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
