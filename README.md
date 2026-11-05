@@ -1,21 +1,127 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+<p><sub>AN EDITORIAL PROFILE · ESHAAN-PALIWAL</sub></p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshaanpaliwal08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshaanpaliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaan-paliwal-72b72a360/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaanpal08@gmail.com) 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com cinematic profile scene" />
+</picture>
 
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eshaan-Paliwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Eshaan-Paliwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshaan-Paliwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com animated ASCII name" />
+</picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eshaan-Paliwal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p><strong>Full-Stack (MERN) developer</strong> · Bhopal, Madhya Pradesh, India</p>
+<p>Full-Stack (MERN) developer seeking an internship or entry-level role (2027 batch) in Bhopal and nearby cities. Built 10+ projects covering React frontends and Node.js, Express, FastAPI and MongoDB/PostgreSQL/Supabase backends, with 58 React feature modules across 6 React projects and 31 REST route handlers across 4 backend projects. Completed 3 internships and 4 hackathons. B.Tech CGPA 8.2.</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Eshaan-Paliwal&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><a href="https://github.com/eshaan-paliwal">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/eshaan-paliwal">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:eshaanpal08@gmail.com">Email</a></p>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Full-Stack (MERN) developer seeking an internship or entry-level role (2027 batch) in Bhopal and nearby cities. Built 10+ projects covering React frontends and Node.js, Express, FastAPI and MongoDB/PostgreSQL/Supabase backends, with 58 React feature modules across 6 React projects and 31 REST route handlers across 4 backend projects. Completed 3 internships and 4 hackathons. B.Tech CGPA 8.2.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Full-Stack (MERN) developer<br />BASED · Bhopal, Madhya Pradesh, India<br />FOCUS · MetaBlog — Full-Stack Blogging Platform</sub></p><p><strong>11</strong> repos<br /><strong>284</strong> contributions<br /><strong>1</strong> followers</p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>In the current cut</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&items=MetaBlog%20%E2%80%94%20Full-Stack%20Blogging%20Platform%3A%3ACurrent%20focus%7CTask%20Tracker%20%E2%80%94%20MERN%20Application%3A%3AIn%20the%20active%20build%20queue%7CExpense%20Tracker%20Dashboard%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&items=MetaBlog%20%E2%80%94%20Full-Stack%20Blogging%20Platform%3A%3ACurrent%20focus%7CTask%20Tracker%20%E2%80%94%20MERN%20Application%3A%3AIn%20the%20active%20build%20queue%7CExpense%20Tracker%20Dashboard%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com cinematic highlights" />
+</picture>
+
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com animated technology stack" />
+</picture>
+
+<p align="center"><sub>TypeScript · JavaScript · CSS · Python · HTML · tools chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&repos=eshaan-paliwal%2FCafe%2Ceshaan-paliwal%2FExpense_Tracker%2Ceshaan-paliwal%2Ftask_user-modules-%2Ceshaan-paliwal%2Fuser_M&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&repos=eshaan-paliwal%2FCafe%2Ceshaan-paliwal%2FExpense_Tracker%2Ceshaan-paliwal%2Ftask_user-modules-%2Ceshaan-paliwal%2Fuser_M&v=cinematic-projects-2&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Eshaan-Paliwal/Cafe">Cafe</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Eshaan-Paliwal/Expense_Tracker">Expense_Tracker</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Eshaan-Paliwal/task_user-modules-">task_user-modules-</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Eshaan-Paliwal/user_M">user_M</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<p align="center"><sub>11 public projects · 0 stars · 284 contributions · 1 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Feshaan-paliwal&email=eshaanpal08%40gmail.com&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Feshaan-paliwal&email=eshaanpal08%40gmail.com&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com contact links" />
+</picture>
+
+<p><a href="https://github.com/eshaan-paliwal">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/eshaan-paliwal">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:eshaanpal08@gmail.com">Email</a></p>
+
+<p><sub>ESHAAN PALIWAL portfolio-i7m6.onrender.com · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
+
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Panamax Limited — Quality Testing Intern</b><br /><sub>16 Sep 2026 – 16 Oct 2026</sub></td><td width="66%" valign="top"><ul><li>Performed tensile, bursting and tack tests on adhesive tapes as per BIS standards and documented test reports.</li><li>Used Ball Tack Tester, Loop Tack Tester, adhesive test instruments, Tensile Strength Tester (UTM) and Bursting Strength Tester.</li><li>Conducted high-voltage and flammability tests on samples to check compliance with quality specifications.</li></ul></td></tr><tr><td width="34%" valign="top"><b>FlutterFlirt Pvt. Ltd., Bhopal — UI/UX Design Intern (Figma)</b><br /><sub>Jun 2026</sub></td><td width="66%" valign="top"><ul><li>Created wireframes and interactive prototypes in Figma and handed off developer-ready screens to React developers.</li><li>Worked on a real React.js web application using Git, GitHub and REST APIs.</li><li>Completed an induction to Microsoft Dynamics 365 Finance &amp; Operations.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Syntecxhub — Web Development Intern</b><br /><sub>Mar 2026 – Apr 2026</sub></td><td width="66%" valign="top"><ul><li>Built responsive pages and reusable React components; integrated REST APIs in a Git/GitHub, Agile team.</li><li>Debugged and optimized application code.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- B.Tech (Full-Stack Development) — SAGE University, Bhopal (2027 (Expected))
+- Class 12th — Kendriya Vidyalaya No. 2 CPE, Itarsi (2023)
+- Class 10th — Kendriya Vidyalaya No. 2 CPE, Itarsi (2021)
+
+<b>Projects</b>
+
+- <b>Task Tracker — MERN Application</b> — Built a task management app with authentication and task APIs (10 backend routes, 9 React modules). Wrote 6 Vitest test files for application logic.
+- <b>Expense Tracker Dashboard</b> — Built a dashboard with Recharts analytics, drag-and-drop expense categorization and Supabase data persistence. Added dark mode, responsive masonry layout and form validation across 14 components.
+- <b>Coffee Shop Web Application</b> — Built an e-commerce UI with authentication, cart, order history and profile settings. Added animated transitions and 3D visual elements using Three.js and React Three Fiber.
+- <b>Student Record System — FastAPI + React</b> — Built a FastAPI student-record API with 6 route/method declarations. Built a React student frontend that calls the student API operations.
+- <b>User &amp; Admin Management — MERN</b> — Built a React user/admin frontend with 14 feature modules. Built a Node.js API with 8 routes covering health, authentication and user management.
