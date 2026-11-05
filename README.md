@@ -1,6 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com cinematic profile scene" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=eshaan-paliwal&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189013541%3Fu%3D2d5a3f8d9f90785f3e774094f84f6f90ec3dd3ed%26v%3D4&label=ESHAAN%20PALIWAL%20portfolio-i7m6.onrender.com&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="ESHAAN PALIWAL portfolio-i7m6.onrender.com animated ASCII name" />
+</picture>
+
+<p><strong>Full-Stack (MERN) developer</strong> · Bhopal, Madhya Pradesh, India</p>
+<p>Full-Stack (MERN) developer seeking an internship or entry-level role (2027 batch) in Bhopal and nearby cities. Built 10+ projects covering React frontends and Node.js, Express, FastAPI and MongoDB/PostgreSQL/Supabase backends, with 58 React feature modules across 6 React projects and 31 REST route handlers across 4 backend projects. Completed 3 internships and 4 hackathons. B.Tech CGPA 8.2.</p>
+
+<p><a href="https://github.com/eshaan-paliwal">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/eshaan-paliwal">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:eshaanpal08@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://portfolio-i7m6.onrender.com">Portfolio</a></p>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshaanpaliwal08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshaanpaliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaan-paliwal-72b72a360/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaanpal08@gmail.com) 
